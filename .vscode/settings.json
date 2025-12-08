@@ -1,0 +1,10 @@
+// 220329405 / Chawda / Gira / A
+// 220486114 / Dhawan / Komal / A
+// 219941855 / Carter / Toby / A
+
+{
+    "java.project.sourcePaths": ["phase4/src"],
+    "java.project.referencedLibraries": [
+        "phase4/lib/**/*.jar"
+    ]
+}

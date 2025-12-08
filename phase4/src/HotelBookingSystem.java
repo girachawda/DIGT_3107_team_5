@@ -1,4 +1,6 @@
-
+// 220329405 / Chawda / Gira / A
+// 220486114 / Dhawan / Komal / A
+// 219941855 / Carter / Toby / A
 import java.sql.*;
 import java.util.Scanner;
 
@@ -247,7 +249,7 @@ public class HotelBookingSystem {
             System.out.println("✓ Guest created with ID: " + guestId);
         }
 
-        int roomId = getIntInput("Enter Room ID (1-5): ");
+        int roomId = getIntInput("Enter Room ID (1-11): ");
         int paymentMethodId = getIntInput("Enter Payment Method ID (1=Credit, 2=Debit, 3=Cash): ");
         String checkIn = getStringInput("Enter Check-in (YYYY-MM-DD HH:MM:SS): ");
         String checkOut = getStringInput("Enter Check-out (YYYY-MM-DD HH:MM:SS): ");

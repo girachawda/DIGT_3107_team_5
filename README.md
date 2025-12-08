@@ -1,17 +1,17 @@
--- 220329405 / Chawda / Gira / A
--- 220486114 / Dhawan / Komal / A
--- 219941855 / Carter / Toby / A
+220329405 / Chawda / Gira / A
+220486114 / Dhawan / Komal / A
+219941855 / Carter / Toby / A
 
 ### Hotel Booking System
 This system allows for the management of hotel bookings, payment methods, rooms, and guest information.
 
 ### Setup
 1. Clone this repository locally
-2. Navigate into SQLWorkbench on you LocalHost
-3. Run phase4/create_table.sql to create table schemas
-4. [OPTIONAL] - Run phase4/create_date.sql to populate
+2. Navigate into SQLWorkbench on your LocalHost
+3. Run phase4/create_tables.sql to create table schemas
+4. [OPTIONAL] - Run phase4/data_creation.sql to populate
 5. [OPTIONAL] - Run phase3/complex_queries.sql to run some test queries
-6. Navigate to your favourite IDE, and open phase4/src/HotelBookingSystem.java
+6. Navigate to your favourite IDE (we recommend VSCode, as we included the .vscode settings file for paths), and open phase4/src/HotelBookingSystem.java
 7. Run this file, and your terminal will open with a text based interface
 
 ### Troubleshooting
